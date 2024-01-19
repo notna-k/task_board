@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="306a1dfa-4507-40cd-a5bc-8c88cab4aad0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/task_board.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Board/board.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Board/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CardColumn/card-column.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CardColumn/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CardItem/card-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CardItem/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CreateCard/create-card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CreateCard/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DeleteModal/delete-modal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DeleteModal/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EditModal/edit-modal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EditModal/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2aqwCHzB75n958nxNN6tq1BcrgA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/notna/Projects/JS_Projects/task_board/client&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/notna/Projects/JS_Projects/task_board/client/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="306a1dfa-4507-40cd-a5bc-8c88cab4aad0" name="Changes" comment="" />
+      <created>1705059287723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705059287723</updated>
+      <workItem from="1705059288723" duration="6335000" />
+      <workItem from="1705132511019" duration="7635000" />
+      <workItem from="1705220957592" duration="5994000" />
+      <workItem from="1705307053660" duration="6942000" />
+      <workItem from="1705396995591" duration="9982000" />
+      <workItem from="1705480518375" duration="7496000" />
+      <workItem from="1705586535020" duration="2978000" />
+      <workItem from="1705650563895" duration="6126000" />
+      <workItem from="1705656697281" duration="6602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

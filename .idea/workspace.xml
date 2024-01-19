@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f7652d1-deb3-4d8b-8bc1-99e6a6ca5ef1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.idea/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Board/board.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Board/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CardColumn/card-column.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CardColumn/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CardItem/card-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CardItem/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/EditModal/edit-modal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/MyButton/my-button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/MyButton/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/MyInput/my-input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/MyInput/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/hooks/use-board.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/use-observer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store/UserStore.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/board/board.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/board/board.entity.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/board/board.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/board/board.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/board/dto/create-board-body.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/board/dto/delete-board-body.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/board/dto/get-board-query.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/board/dto/update-board-body.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/card/card.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/card/card.entity.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/card/card.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/card/card.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/card/dto/create-card-body.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/card/dto/get-card-query.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/card/dto/update-card-body.dto.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2b1yfuV9GqqJ0fBePoiBzvrFkPc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/notna/Projects/JS_Projects/task_board/server",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f7652d1-deb3-4d8b-8bc1-99e6a6ca5ef1" name="Changes" comment="" />
+      <created>1705396985451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705396985451</updated>
+      <workItem from="1705396986788" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
